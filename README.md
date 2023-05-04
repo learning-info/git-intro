@@ -66,6 +66,10 @@ git commit
 - `git commit -m "mensaje"` conrma todos los cambios de la zona de intercambio temporal añadiéndolos al repositorio y creando una nueva versión del proyecto. "mensaje" es un breve mensaje describiendo los cambios realizados que se asociará a la nueva versión del proyecto.
 - `git commit --amend -m "mensaje"` cambia el mensaje del último commit por el nuevo mensaje "mensaje".
 
+---
+<img src="/img/area_git.png" alt="flujo git" width="500px">
+---
+
 ## Mostrar el estado de un repositorio
 
 ```sh
