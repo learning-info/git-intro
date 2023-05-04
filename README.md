@@ -90,5 +90,5 @@ git branch
 ```sh
 git checkout
 ```
-- git checkout <rama> actualiza los cheros del directorio de trabajo a la última versión del repositorio correspondiente a la rama <rama>, y la activa, es decir, pasa a apuntar al último commit de esta rama.
-- git checkout -b <rama> crea una nueva rama con el nombre <rama> y la activa
+- `git checkout <rama>` actualiza los cheros del directorio de trabajo a la última versión del repositorio correspondiente a la rama <rama>, y la activa, es decir, pasa a apuntar al último commit de esta rama.
+- `git checkout -b <rama>` crea una nueva rama con el nombre <rama> y la activa
