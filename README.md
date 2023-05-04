@@ -68,6 +68,7 @@ git commit
 
 ---
 <img src="/img/area_git.png" alt="flujo git" width="500px">
+
 ---
 
 ## Mostrar el estado de un repositorio
